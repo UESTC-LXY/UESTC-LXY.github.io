@@ -1,11 +1,7 @@
 var member = [
   {
     "phone": "",
-    "name": "龚萍"
-  },
-  {
-    "phone": "",
-    "name": "王昭君"
+    "name": "张瑞阳"
   },
   {
     "phone": "",
@@ -13,19 +9,23 @@ var member = [
   },
   {
     "phone": "",
-    "name": "钱锦"
+    "name": "张瑞阳"
   },
   {
     "phone": "",
-    "name": "方英姿"
+    "name": "张瑞阳"
   },
   {
     "phone": "",
-    "name": "马琳"
+    "name": "张瑞阳"
   },
   {
     "phone": "",
-    "name": "王可"
+    "name": "张瑞阳"
+  },
+  {
+    "phone": "",
+    "name": "张瑞阳"
   },
   {
     "phone": "",
