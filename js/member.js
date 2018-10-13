@@ -1,36 +1,36 @@
 var member = [
   {
-    "phone": "",
+    "phone": "7",
     "name": "张瑞阳"
   },
   {
-    "phone": "",
+    "phone": "1",
     "name": "胡晓聪"
   },
   {
-    "phone": "",
+    "phone": "6",
     "name": "张瑞阳"
   },
   {
-    "phone": "",
+    "phone": "5",
     "name": "张瑞阳"
   },
   {
-    "phone": "",
+    "phone": "4",
     "name": "张瑞阳"
   },
   {
-    "phone": "",
+    "phone": "3",
     "name": "张瑞阳"
   },
   {
-    "phone": "",
+    "phone": "2",
     "name": "张瑞阳"
   },
   {
-    "phone": "",
+    "phone": "1",
     "name": "张瑞阳"
-  },
+  }
   // {
   //   "phone": "0001",
   //   "name": "00018"
